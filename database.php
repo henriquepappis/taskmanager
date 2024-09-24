@@ -1,9 +1,9 @@
 <?php
 function getDatabaseConnection()
 {
-    $servername = "localhost";
-    $username = "root";
-    $password = "dica";
+    $servername = "host";
+    $username = "username";
+    $password = "password";
     $dbname = "task_manager";
 
     // Cria a conexão
